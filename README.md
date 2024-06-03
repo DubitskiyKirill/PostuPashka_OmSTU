@@ -1,4 +1,5 @@
 # Данный телеграм-бот используется для получения своих мест в направлениях при поступлении
+# Доступен по ссылке: https://web.telegram.org/k/#@PostuPashka_OmSTU_BOT
 ![image](https://github.com/DubitskiyKirill/PostuPashka_OmSTU/assets/125906191/6106a446-55c0-4940-b153-f1904eeba3da)
 ![image](https://github.com/DubitskiyKirill/PostuPashka_OmSTU/assets/125906191/3c171ac5-868b-4534-863f-9a9f21d9cd4c)
 ![image](https://github.com/DubitskiyKirill/PostuPashka_OmSTU/assets/125906191/856a84f0-58d2-445a-8a24-93f78baead92)
